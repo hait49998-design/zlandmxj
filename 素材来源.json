@@ -1,0 +1,347 @@
+{
+  "checked": "2026-11-10",
+  "scope": "BWIKI冒险家角色页时装图鉴；社区交叉核实，未宣称官方完整性。",
+  "source": "https://wiki.biligame.com/dwrg/冒险家",
+  "total": 37,
+  "missing": [],
+  "items": [
+    {
+      "id": "skin-01",
+      "name": "小人国",
+      "quality": "稀世",
+      "source": "https://wiki.biligame.com/dwrg/%E5%B0%8F%E4%BA%BA%E5%9B%BD",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/a/af/dx0slwuktoefudxkkdoema8jc5nnvyh.png",
+      "image": "skins/skin-01.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-02",
+      "name": "报社主编",
+      "quality": "稀世",
+      "source": "https://wiki.biligame.com/dwrg/%E6%8A%A5%E7%A4%BE%E4%B8%BB%E7%BC%96",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/c/c0/0c2nzkhriko0cd0yeo9eo2epy3zw6oc.png",
+      "image": "skins/skin-02.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-03",
+      "name": "伊卡洛斯",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E4%BC%8A%E5%8D%A1%E6%B4%9B%E6%96%AF",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/a/ac/q2bprfiluxckf80fbtf83u1borp2t1g.png",
+      "image": "skins/skin-03.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-04",
+      "name": "发明家",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E5%8F%91%E6%98%8E%E5%AE%B6",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/1/17/bmw804n39rxgl5d80pdmzweqsmdkoyn.png",
+      "image": "skins/skin-04.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-05",
+      "name": "宝藏猎人",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E5%AE%9D%E8%97%8F%E7%8C%8E%E4%BA%BA",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/89/rb1wgsftj626h6w4nbpqndagup00jnz.png",
+      "image": "skins/skin-05.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-06",
+      "name": "爱丽丝",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E7%88%B1%E4%B8%BD%E4%B8%9D",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/2/2a/ducovwq3p1wdz6lwv3wxsfj1vhllh8v.png",
+      "image": "skins/skin-06.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-07",
+      "name": "穿越冰穹",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E7%A9%BF%E8%B6%8A%E5%86%B0%E7%A9%B9",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/0/01/cweicz4lai4bsoqml9rqnhh7mz5yfvj.png",
+      "image": "skins/skin-07.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-08",
+      "name": "考古教授",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E8%80%83%E5%8F%A4%E6%95%99%E6%8E%88",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/8d/oc2g4o7wjqmk62j1xdy8urm6a60221y.png",
+      "image": "skins/skin-08.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-09",
+      "name": "警醒的龟先生",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E8%AD%A6%E9%86%92%E7%9A%84%E9%BE%9F%E5%85%88%E7%94%9F",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/9/98/14piq5qq66nh6td682iemra8q0p8865.png",
+      "image": "skins/skin-09.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-10",
+      "name": "赞因",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E8%B5%9E%E5%9B%A0",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/5/5e/bvlcpmydycernht9n4cg8177ovh6wxb.png",
+      "image": "skins/skin-10.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-11",
+      "name": "陈拾",
+      "quality": "奇珍",
+      "source": "https://wiki.biligame.com/dwrg/%E9%99%88%E6%8B%BE",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/6/69/qeju5z38aw0jhgxk8zcwcl33ipzo9qz.png",
+      "image": "skins/skin-11.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-12",
+      "name": "“博物架”",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E2%80%9C%E5%8D%9A%E7%89%A9%E6%9E%B6%E2%80%9D",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/8c/rnxz6udz9tef5vwr4yx5z5987bqej9n.png",
+      "image": "skins/skin-12.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-13",
+      "name": "大话王",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E5%A4%A7%E8%AF%9D%E7%8E%8B",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/7/74/g2bchq5bgz5gmseetojcnq618n47leq.png",
+      "image": "skins/skin-13.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-14",
+      "name": "奇境",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E5%A5%87%E5%A2%83",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/b/b4/egoivdqy9iypjhjqbmhs7t9xcdobzhz.png",
+      "image": "skins/skin-14.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-15",
+      "name": "微连续学者",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E5%BE%AE%E8%BF%9E%E7%BB%AD%E5%AD%A6%E8%80%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/d/de/cgt03ijtcrw05wvv3gsyo2o1j1y9woo.png",
+      "image": "skins/skin-15.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-16",
+      "name": "春之诗",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%98%A5%E4%B9%8B%E8%AF%97",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/1/1b/m9g3n1vwva6onyjo1mcrxc00qodxslz.png",
+      "image": "skins/skin-16.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-17",
+      "name": "月下旅客",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E6%9C%88%E4%B8%8B%E6%97%85%E5%AE%A2",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/b/b5/3t3nlnirqiz9rt0jb5fw0e04hih54w3.png",
+      "image": "skins/skin-17.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-18",
+      "name": "渊博之人",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%B8%8A%E5%8D%9A%E4%B9%8B%E4%BA%BA",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/b/bb/r3amspmmx5mt5sls7o74fwtru8m5t34.png",
+      "image": "skins/skin-18.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-19",
+      "name": "百瑞",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E7%99%BE%E7%91%9E",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/c/cc/7au3zvf7t5gv987ybm0pl50pe137jue.png",
+      "image": "skins/skin-19.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-20",
+      "name": "科研员",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E7%A7%91%E7%A0%94%E5%91%98",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/f/f1/mzxpl3dmarebeb96ggwltq90jddqf6f.png",
+      "image": "skins/skin-20.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-21",
+      "name": "落魄指挥家",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E8%90%BD%E9%AD%84%E6%8C%87%E6%8C%A5%E5%AE%B6",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/7/71/56308umimkjo10dn9l3scdlb41mizx3.png",
+      "image": "skins/skin-21.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-22",
+      "name": "远航",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E8%BF%9C%E8%88%AA",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/a/aa/fm56rmtmaixmmu69tt5rbtaq264t4k6.png",
+      "image": "skins/skin-22.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-23",
+      "name": "远行者",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E8%BF%9C%E8%A1%8C%E8%80%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/8e/g4voy4lvwvkp1u04hqilcnzhz6i7qr3.png",
+      "image": "skins/skin-23.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-24",
+      "name": "迷航",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E6%97%B6%E8%A3%85_%E8%BF%B7%E8%88%AA",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/d/da/av3qdkk96bqee1j1mpp74m0mxlm8f35.png",
+      "image": "skins/skin-24.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-25",
+      "name": "迷途者",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E8%BF%B7%E9%80%94%E8%80%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/a/af/34ukog4h7h9cg1ezq7gcl8u9k3p26uh.png",
+      "image": "skins/skin-25.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-26",
+      "name": "钟表收藏家",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E9%92%9F%E8%A1%A8%E6%94%B6%E8%97%8F%E5%AE%B6",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/9/9e/9761qz7xg4bfp2vzuc5dlndci0icco7.png",
+      "image": "skins/skin-26.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-27",
+      "name": "镇定剂",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E9%95%87%E5%AE%9A%E5%89%82",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/a/af/j3fdvw7au697k4mrytze4bcw7refnqp.png",
+      "image": "skins/skin-27.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-28",
+      "name": "阴谋论者",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E9%98%B4%E8%B0%8B%E8%AE%BA%E8%80%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/86/50u3uzddoa5fdnsov863vfioie27tfr.png",
+      "image": "skins/skin-28.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-29",
+      "name": "鹤翁",
+      "quality": "独特",
+      "source": "https://wiki.biligame.com/dwrg/%E9%B9%A4%E7%BF%81",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/e/eb/aedg98wmj744j8t2jku4rfalzkhu900.png",
+      "image": "skins/skin-29.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-30",
+      "name": "初始时装",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E5%88%9D%E5%A7%8B%E6%97%B6%E8%A3%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/1/19/fscbjyabu3zsz034xj2rcpx1ohg7pbo.png",
+      "image": "skins/skin-30.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-31",
+      "name": "另一面",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E5%8F%A6%E4%B8%80%E9%9D%A2",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/c/ca/h5nzq3kvk58obiwm2xk31k2vxz2jhpf.png",
+      "image": "skins/skin-31.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-32",
+      "name": "回忆粉",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E5%9B%9E%E5%BF%86%E7%B2%89",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/d/d2/5al0qbgcwwxrlbpc9w4wc4lgqecj7la.png",
+      "image": "skins/skin-32.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-33",
+      "name": "旧装",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E6%97%A7%E8%A3%85",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/b/b9/t1vinmdh1tnvtral32a5imsc9g5cmuk.png",
+      "image": "skins/skin-33.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-34",
+      "name": "松石青",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E6%9D%BE%E7%9F%B3%E9%9D%92",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/4/48/8le6ur1gnc6aznhe3zvok3cfhci7nm0.png",
+      "image": "skins/skin-34.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-35",
+      "name": "甜杏黄",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E7%94%9C%E6%9D%8F%E9%BB%84",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/6/64/9u372yevojkaw7cydx31vt9dngy662l.png",
+      "image": "skins/skin-35.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-36",
+      "name": "秋叶橘",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E7%A7%8B%E5%8F%B6%E6%A9%98",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/7/79/8vljgdcohhw1gtur139czz0sihp0qhy.png",
+      "image": "skins/skin-36.webp",
+      "checked": "2026-11-10"
+    },
+    {
+      "id": "skin-37",
+      "name": "青葱绿",
+      "quality": "罕见",
+      "source": "https://wiki.biligame.com/dwrg/%E5%86%92%E9%99%A9%E5%AE%B6_%E9%9D%92%E8%91%B1%E7%BB%BF",
+      "imageSource": "https://patchwiki.biligame.com/images/dwrg/8/8b/sfj39n1dqijrkrqn4a8e8syylt1s7vf.png",
+      "image": "skins/skin-37.webp",
+      "checked": "2026-11-10"
+    }
+  ],
+  "redesignReference": {
+    "source": "https://apps.apple.com/cn/app/id6451407032",
+    "use": "选集、追剧、评论与播控习惯；原创生日剧情，无平台剧集或官方标识素材。",
+    "checked": "2026-11-10"
+  }
+}
